@@ -1,0 +1,41 @@
+body{
+     background-image:url("vyhzvdpewbx11.jpg");
+     background-repeat:no-repeat;
+     font-family:'ubuntu',sans-seriff;
+     }
+ h2 {
+     background-colour:
+     width:30%;
+     height:50%;
+     border-radius:3em;
+     color:lightblue;
+   }
+.Start{
+   border:5px solid lightblue;
+   background-color:rgba(255, 99, 71, 0.4);
+   width:30%;
+   height:30%;
+   border-radius:3em;
+   margin:10% auto;
+  }
+#User{
+   padding-left:10%;
+   padding:6px 6px;
+   border:2px solid lightblue;
+   border-radius:10px;
+  }
+#Pass{
+   padding-left:10%;
+   padding:6px 6px;
+   border:2px solid lightblue;
+   border-radius:10px;
+  }
+#Click:hover{
+    background-image:none!important;
+    background-color:green;
+   }
+ #Click{
+     cursor:pointer;
+     color:red;
+     background-color:magenta;
+   }
