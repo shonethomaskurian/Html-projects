@@ -1,0 +1,7 @@
+.box{
+border:5px solid black;
+      width:30%;
+      padding-bottom: 20%;
+      margin-left: 35%;
+      transition: 200ms ease;
+      }
